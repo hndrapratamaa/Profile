@@ -5,10 +5,9 @@
 
 Modern neumorphic portfolio showcasing projects and social links with smooth interactions and responsive design.
 
-![Portfolio Preview](https://hndrapratama.github.io/Special-Temple-of-Yogyakarta/preview.png)
+![Portfolio Preview](https://hndrapratama.github.io/)
 
-## 🚀 Live Demo
-[https://hndrapratama.github.io/](https://hndrapratamaa.github.io/hndrapratamaa/)
+[## 🚀 Live Demo](https://hndrapratamaa.github.io/Profile/)
 
 ## ✨ Features
 - **Neumorphic UI Design**  
