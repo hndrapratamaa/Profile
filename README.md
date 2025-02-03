@@ -1,6 +1,6 @@
 # 🌟 hndrapratama's Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=github)](https://hndrapratama.github.io/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-blue?logo=github)](https://hndrapratamaa.github.io/hndrapratamaa/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Modern neumorphic portfolio showcasing projects and social links with smooth interactions and responsive design.
@@ -8,7 +8,7 @@ Modern neumorphic portfolio showcasing projects and social links with smooth int
 ![Portfolio Preview](https://hndrapratama.github.io/Special-Temple-of-Yogyakarta/preview.png)
 
 ## 🚀 Live Demo
-[https://hndrapratama.github.io/](https://hndrapratama.github.io/)
+[https://hndrapratama.github.io/](https://hndrapratamaa.github.io/hndrapratamaa/)
 
 ## ✨ Features
 - **Neumorphic UI Design**  
