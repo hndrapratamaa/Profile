@@ -5,9 +5,9 @@
 
 Modern neumorphic portfolio showcasing projects and social links with smooth interactions and responsive design.
 
-![Portfolio Preview](https://hndrapratama.github.io/)
+![Portfolio Preview](https://hndrapratama.github.io/assets/img/Demo.png)
 
-[## 🚀 Live Demo](https://hndrapratamaa.github.io/Profile/)
+## [🚀 Live Demo](https://hndrapratamaa.github.io/Profile/)
 
 ## ✨ Features
 - **Neumorphic UI Design**  
