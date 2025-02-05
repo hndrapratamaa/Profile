@@ -168,7 +168,7 @@ main {
 }
 
 .project-title {
-    color: var(--accent-blue);
+    color: var(--text-color);
     font-family: var(--font-heading);
     font-size: 1.3rem;
     font-weight: 600;
