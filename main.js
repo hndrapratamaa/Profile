@@ -16,9 +16,11 @@ function changePage(page) {
         top: 0,
         behavior: 'smooth'
     });
-}
 
+    
 // Initialize first page
 document.addEventListener('DOMContentLoaded', () => {
     changePage('main');
 });
+    
+}
